@@ -1,0 +1,2 @@
+# katas
+Personal daily kata
