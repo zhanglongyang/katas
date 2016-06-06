@@ -1,3 +1,6 @@
+package test.scala
+
+import main.scala.FizzBuzz
 import org.scalatest._
 
 class FizzBuzzSpec extends FlatSpec with Matchers {

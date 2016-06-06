@@ -1,3 +1,5 @@
+package main.scala
+
 
 object FizzBuzz {
   def getResult(num: Int) = {
